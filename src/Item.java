@@ -4,12 +4,6 @@ import java.io.Serializable;
  * This class represents an item that is a part of the grocery inventory.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 6
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class Item implements Serializable {
     /** Represents the code unique to this item. */

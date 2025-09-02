@@ -5,12 +5,6 @@ import java.util.Scanner;
  * This class represents the Grocery Driver the user can use to interact with the grocery inventory.
  *
  * @author Charles Walford
- * Solar ID: 116237064
- * Email: charles.walford@stonybrook.edu
- * Assignment number: 6
- * Course: CSE 214
- * Recitation number: 1
- * TAs: Yvette Han, Vincent Zheng
  */
 public class GroceryDriver {
     /**
